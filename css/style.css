@@ -70,5 +70,6 @@ main {
 
 #btm-right {
   grid-area: btm-right;
+  cursor: pointer;
   /* background-color: #222; */
 }
